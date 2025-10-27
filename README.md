@@ -1,5 +1,8 @@
 # Notely 🗑️
 
+
+
+test
 **Notely** is a full-stack note-taking web application built with **Django (backend)** and **React + Vite (frontend)**. This project demonstrates modern web app architecture, RESTful API integration, and deployment on free hosting platforms.
 
 ---
